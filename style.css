@@ -90,11 +90,11 @@ input{
     
     #loveCalculatorForm {
         border: 1px ;
-        height: 250px;
-        width: 250px;
+        height: 300px;
+        width: 260px;
         text-align: center;
         margin-top: 100px;
-        margin-left: 15px;
+        margin-left: 10px;
         color: #fff;
     }
     #boyfriend{
